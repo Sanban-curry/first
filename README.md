@@ -1,13 +1,16 @@
 # first
+<hr>
+<h1> ways and effect </h1>
+<hr>
+<p>push w　red line up<br>
+push z　red line down<br>
+push →　green line right<br>
+push ←　green line left<br>
+push space　game start</p>
 
-ways           effect
-push w         red line up
-push z         red line down
-push →　　　　　green line right
-push ←　　　　　green line left
-push space     game start
+<hr>
 
-
-rules
-ball touch purple line   →　you lose
-ball touch a bad monster →　you win
+<h1>rules</h1>
+<hr>
+<p>ball touch purple line   →　you lose<br>
+ball touch a bad monster →　you win</br>
